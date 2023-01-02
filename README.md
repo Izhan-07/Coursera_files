@@ -1,2 +1,2 @@
-![cr](https://user-images.githubusercontent.com/93210173/210221615-9003d7aa-f416-4c2b-9149-50a4789795d6.png)
+![coursera-wordmark-blue](https://user-images.githubusercontent.com/93210173/210221960-249a35bb-1554-48f8-992a-3f67196c9a51.svg)
 # Coursera_files
